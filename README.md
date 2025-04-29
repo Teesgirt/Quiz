@@ -4,7 +4,7 @@
 The **Quiz Application** is built to create a platform where users can:
 - Participate in quizzes on various topics
 - Answer multiple-choice questions
-- Instantly receive scores and feedback
+- Instantly receive score
 - View result
 
 The application ensures an engaging, easy-to-use experience with support for different quiz types and dynamic user interfaces.
