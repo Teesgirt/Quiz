@@ -97,12 +97,9 @@ You can find the database helper class (`DatabaseHelper.java`) inside the `/data
 | Home Screen | Quiz Screen | Result Screen |
 | :---------: | :----------: | :-----------: |
 | ![Home](""![IMG-20250429-WA0007](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767)
- ) | ![Quiz]("![IMG-20250429-WA0005](https://github.com/user-attachments/assets/30daec4a-83d5-4c65-b464-379801c9b75e)
-![IMG-20250429-WA0004](https://github.com/user-attachments/assets/14c3e677-db18-4159-ae4a-22bdf753c9f7)
-![IMG-20250429-WA0003](https://github.com/user-attachments/assets/0cb92918-3e38-4aaa-82b7-f45fde4d6f4b)
-![IMG-20250429-WA0002](https://github.com/user-attachments/assets/0a12c054-b7ae-4007-ac95-1b26707e9435)
-![IMG-20250429-WA0006](https://github.com/user-attachments/assets/9e7d16ac-ac95-4566-869e-d8afd1d7a7eb)
- ") | ![Result](screenshots/result_screen.png) |
+ ) | ![Quiz](" ![IMG-20250429-WA0006](https://github.com/user-attachments/assets/41404b17-dfda-4e62-8a44-8e1e9319f32f)
+") | ![Result](" ![IMG-20250429-WA0004](https://github.com/user-attachments/assets/6c548d29-1446-4838-bb3f-3e9bd1233f0e)
+") |
 
 > *(Replace the images inside the `/screenshots/` folder with your app screenshots.)*
 
