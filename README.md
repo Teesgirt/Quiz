@@ -96,7 +96,8 @@ You can find the database helper class (`DatabaseHelper.java`) inside the `/data
 
 | Home Screen | Quiz Screen | Result Screen |
 | :---------: | :----------: | :-----------: |
-| ![Home]("C:/Users/ACER/Desktop/del/IMG-20250429-WA0008.jpg" ) | ![Quiz](screenshots/quiz_screen.png) | ![Result](screenshots/result_screen.png) |
+| ![Home](""![IMG-20250429-WA0007](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767)
+ ) | ![Quiz](screenshots/quiz_screen.png) | ![Result](screenshots/result_screen.png) |
 
 > *(Replace the images inside the `/screenshots/` folder with your app screenshots.)*
 
