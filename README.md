@@ -72,14 +72,10 @@ implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
 - **SQLite** is used as a lightweight local database.
 - Database is created automatically when the app runs for the first time.
 - The database stores:
-  - Quiz Questions
-  - User’s Answers
-  - Scores
-  - Performance Statistics
+  - User's Answer
 
 You can find the database helper class (`DatabaseHelper.java`) inside the `/database/` package in the project structure.
 
-**Important**:  
 > No external database server is required.  
 > All data is stored and retrieved locally using SQLite.
 
@@ -89,36 +85,7 @@ You can find the database helper class (`DatabaseHelper.java`) inside the `/data
 
 | Login Screen | Home Screen | Quiz Screen | Result Screen |
 | :----------: | :---------: | :----------: | :-----------: |
-| ![Login](" ![IMG-20250429-WA0008](https://github.com/user-attachments/assets/9e5fbab9-33f5-4877-97c5-1763d1eb4e80)
-") | ![Home](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767) | ![Quiz](https://github.com/user-attachments/assets/41404b17-dfda-4e62-8a44-8e1e9319f32f) | ![Result](https://github.com/user-attachments/assets/6c548d29-1446-4838-bb3f-3e9bd1233f0e) |
-
-
-
----
-
-## Project Structure
-```
-QuizApplication/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   ├── com/yourpackage/quizapp/
-│   │   │   │   │   ├── activities/
-│   │   │   │   │   ├── adapters/
-│   │   │   │   │   ├── database/
-│   │   │   │   │   ├── models/
-│   │   │   │   │   ├── utils/
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   ├── drawable/
-│   │   │   │   ├── values/
-│   │   │   │   ├── anim/
-│   │   │   └── AndroidManifest.xml
-├── build.gradle
-├── README.md
-├── screenshots/
-```
+| ![Login](https://github.com/user-attachments/assets/9e5fbab9-33f5-4877-97c5-1763d1eb4e80) | ![Home](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767) | ![Quiz](https://github.com/user-attachments/assets/41404b17-dfda-4e62-8a44-8e1e9319f32f) | ![Result](https://github.com/user-attachments/assets/6c548d29-1446-4838-bb3f-3e9bd1233f0e) |
 
 
 
