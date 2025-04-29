@@ -1,18 +1,11 @@
-Understood!  
-Based on your updated instructions, here’s a **more formal README.md** version that fully satisfies all requirements — including database, APIs, and libraries references — exactly how evaluators expect it:
-
----
-
 # Quiz Application
-
----
 
 ## Overview
 The **Quiz Application** is built to create a platform where users can:
 - Participate in quizzes on various topics
 - Answer multiple-choice questions
 - Instantly receive scores and feedback
-- View performance statistics and track progress
+- View result
 
 The application ensures an engaging, easy-to-use experience with support for different quiz types and dynamic user interfaces.
 
@@ -94,14 +87,11 @@ You can find the database helper class (`DatabaseHelper.java`) inside the `/data
 
 ## Screenshots / Demo
 
-| Home Screen | Quiz Screen | Result Screen |
-| :---------: | :----------: | :-----------: |
-| ![Home](""![IMG-20250429-WA0007](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767)
- ) | ![Quiz](" ![IMG-20250429-WA0006](https://github.com/user-attachments/assets/41404b17-dfda-4e62-8a44-8e1e9319f32f)
-") | ![Result](" ![IMG-20250429-WA0004](https://github.com/user-attachments/assets/6c548d29-1446-4838-bb3f-3e9bd1233f0e)
-") |
+| Login Screen | Home Screen | Quiz Screen | Result Screen |
+| :----------: | :---------: | :----------: | :-----------: |
+| ![Login](https://github.com/user-attachments/assets/your-login-image-link) | ![Home](https://github.com/user-attachments/assets/2530bb12-e2a2-4c59-9824-2f46ff2a2767) | ![Quiz](https://github.com/user-attachments/assets/41404b17-dfda-4e62-8a44-8e1e9319f32f) | ![Result](https://github.com/user-attachments/assets/6c548d29-1446-4838-bb3f-3e9bd1233f0e) |
 
-> *(Replace the images inside the `/screenshots/` folder with your app screenshots.)*
+
 
 ---
 
@@ -129,29 +119,7 @@ QuizApplication/
 ├── screenshots/
 ```
 
----
 
-## Important Notes
-- ✅ Your GitHub repository **must stay public and accessible** at all times during the evaluation.
-- ✅ All third-party libraries (like Lottie) are added via Gradle and documented here.
-- ✅ The project **does not rely on any external server** — all database operations happen locally with SQLite.
-- ✅ All necessary assets (animations, icons) are included inside the project directory itself.
 
----
 
-## Future Enhancements
-- Timer for answering questions
-- Leaderboards for competitive quizzes
-- Login system to track individual user performance
-- Ability to create custom quizzes
-- Cloud backup for quiz results
 
----
-
-## License
-This project is licensed under the **MIT License** — free to use and modify.
-
----
-
-Would you also like me to create a **sample `DatabaseHelper.java`** and a **template for `MainActivity.java`** you can directly use?  
-(They'll match this structure perfectly!) 🚀 Let me know!
